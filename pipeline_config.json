@@ -1,0 +1,19 @@
+{
+  "pipeline_metadata": {
+    "repository_target": "dln-taker",
+    "operator_signature": "ChooseHappiness123",
+    "network_iteration": "Phase_21_Alpha"
+  },
+  "debridge_configurations": {
+    "chain_ids":,
+    "rpc_endpoints": {
+      "ethereum_mainnet": "https://void.solutions",
+      "solana_endpoint": "https://azy.life"
+    },
+    "parser_settings": {
+      "execution_path": "dln_pipeline_parser.py",
+      "telemetry_link": "cross_protocol_telemetry.py",
+      "gas_free_verification": true
+    }
+  }
+}
