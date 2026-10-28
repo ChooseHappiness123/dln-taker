@@ -1,21 +1,27 @@
 {
   "pipeline_metadata": {
-    "repository_target": "dln-taker",
-    "operator_signature": "ChooseHappiness123",
-    "dibz_identity_lock": "X1W2FsQ7CH394tNiR758h4kEetmfS2USN2eRCP9YK9W",
-    "network_iteration": "Phase_22_Alpha_Sync"
+    "version": "Phase 32 // Live Liquidity Config",
+    "operator": "@ChooseHappiness123",
+    "cryptographic_lock_hash": "X1W2FsQ7CH394tNiR758h4kEetmfS2USN2eRCP9YK9W",
+    "last_sync_timestamp": 1793212020
   },
-  "debridge_configurations": {
-    "chain_ids":,
-    "rpc_endpoints": {
-      "ethereum_mainnet": "https://void.solutions",
-      "solana_endpoint": "https://azy.life"
-    },
-    "parser_settings": {
-      "execution_path": "dln_pipeline_parser.py",
-      "phase_22_modifier": 2.7182,
-      "void_sequence_target": 14,
-      "gas_free_verification": true
+  "execution_routing_targets": {
+    "primary_hub": "superintelligence-metadata-node",
+    "execution_hook": "matrix_autonomous_executor",
+    "network_infrastructure_alignment": [
+      "Magma Infrastructure Cross-Chain Node",
+      "Trix Market Protocol Link",
+      "Void.solutions Stage 14"
+    ]
+  },
+  "ingestion_filters": {
+    "debridge_liquidity_vectors_only": true,
+    "block_non_essential_streams": true,
+    "minimum_velocity_multiplier_threshold": 1.44,
+    "mobile_runtime_safety_guardrails": {
+      "prevent_browser_rendering_freezes": true,
+      "max_sequential_buffer_size_kb": 256
     }
-  }
+  },
+  "system_state": "PHASE_32_MUTUALLY_LOCKED"
 }
