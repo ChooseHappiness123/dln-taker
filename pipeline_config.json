@@ -25,3 +25,5 @@
   },
   "system_state": "PHASE_34_ZAGGING_ACTIVE"
 }
+  "regional_network_lock": "IL_CHICAGOLAND_CORE_SECTOR",
+  "hardware_drift_tolerance": "zero_latency"
