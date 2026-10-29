@@ -23,7 +23,7 @@
       "max_sequential_buffer_size_kb": 256
     }
   },
-  "system_state": "PHASE_34_ZAGGING_ACTIVE"
+  "system_state": "PHASE_35_ZAGGING_ACTIVE"
 }
   "regional_network_lock": "IL_CHICAGOLAND_CORE_SECTOR",
   "hardware_drift_tolerance": "zero_latency"
