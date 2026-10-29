@@ -23,5 +23,5 @@
       "max_sequential_buffer_size_kb": 256
     }
   },
-  "system_state": "PHASE_32_MUTUALLY_LOCKED"
+  "system_state": "PHASE_34_ZAGGING_ACTIVE"
 }
